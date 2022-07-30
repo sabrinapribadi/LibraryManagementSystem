@@ -5,16 +5,16 @@
 ## Rubics
 
 1. Running Program Features
-  - Library member registration
-  - New book registration
-  - Borrowing
-  - Displays Member data, Books, and Return lists
-  - Can do a book search
+   - Library member registration
+   - New book registration
+   - Borrowing
+   - Displays Member data, Books, and Return lists
+   - Can do a book search
 2. Successful Transaction Processing program with database 
-  - Member Data
-  - Book Data
-  - Return Data
-  - The program is built by taking into account the Functional Concept or Object Oriented Programming.
+   - Member Data
+   - Book Data
+   - Return Data
+   - The program is built by taking into account the Functional Concept or Object Oriented Programming.
 3. Clean Code (Documentation)
 
 ## Overview
@@ -34,26 +34,26 @@ This system applies structured programming approach.
 1. Main Menu <br> <img src="previews/MainMenu.png"><br>
 2. Main Menu with Error Notification <br> <img src="previews/WrongNumbersInMainMenu.png"><br>
 3. Account & Membership Maintenance 
-  * Add New Account <br> <img src="previews/AddAccount.png"><br>
-  * Account List After Add Account <br> <img src="previews/AccountListAfterAddAccount.png"><br>
-  * Delete Account <br> <img src="previews/DeleteAccount.png"><br>
-  * Account List After Delete Account <br> <img src="previews/AccountListAfterDeleteAccount.png"><br>
+   * Add New Account <br> <img src="previews/AddAccount.png"><br>
+   * Account List After Add Account <br> <img src="previews/AccountListAfterAddAccount.png"><br>
+   * Delete Account <br> <img src="previews/DeleteAccount.png"><br>
+   * Account List After Delete Account <br> <img src="previews/AccountListAfterDeleteAccount.png"><br>
 4. Book Management 
-  * Add New Book <br> <img src="previews/AddNewBook.png"><br>
-  * Book List After Add Book <br> <img src="previews/BookListAfterAddNewBook.png"><br>
-  * Delete Book <br> <img src="previews/DeleteBook.png"><br>
-  * Book List After Delete Book <br> <img src="previews/BookListAfterDeleteBook.png"><br>
+   * Add New Book <br> <img src="previews/AddNewBook.png"><br>
+   * Book List After Add Book <br> <img src="previews/BookListAfterAddNewBook.png"><br>
+   * Delete Book <br> <img src="previews/DeleteBook.png"><br>
+   * Book List After Delete Book <br> <img src="previews/BookListAfterDeleteBook.png"><br>
 5. Search Book
-  * Search by Book ID <br> <img src="previews/SearchBookID.png"><br>
-  * Search by Book Title <br> <img src="previews/SearchBookTitle.png"><br>
+   * Search by Book ID <br> <img src="previews/SearchBookID.png"><br>
+   * Search by Book Title <br> <img src="previews/SearchBookTitle.png"><br>
 6. Check Out (Borrow) Book 
-  * Search available book by Book Title <br> <img src="previews/BorrowSearchBookTitle.png"><br>
-  * Fill The Check Out (Borrow) Form <br> <img src="previews/BorrowFillForm.png"><br>
-  * Check The Check Out (Borrow) Records <br> <img src="previews/BorrowRecords.png"><br>
+   * Search available book by Book Title <br> <img src="previews/BorrowSearchBookTitle.png"><br>
+   * Fill The Check Out (Borrow) Form <br> <img src="previews/BorrowFillForm.png"><br>
+   * Check The Check Out (Borrow) Records <br> <img src="previews/BorrowRecords.png"><br>
 7. Check In (Borrow) Book 
-  * Search available book by Book Title <br> <img src="previews/ReturnSearchBookTitle.png"><br>
-  * Fill The Check In (Return) Form <br> <img src="previews/ReturnFillForm.png"><br>
-  * Check The Check In (Return) Records <br> <img src="previews/ReturnRecords.png"><br>
+   * Search available book by Book Title <br> <img src="previews/ReturnSearchBookTitle.png"><br>
+   * Fill The Check In (Return) Form <br> <img src="previews/ReturnFillForm.png"><br>
+   * Check The Check In (Return) Records <br> <img src="previews/ReturnRecords.png"><br>
 8. Exit <br> <img src="previews/Exit.png"><br>
 
 ## Authors
