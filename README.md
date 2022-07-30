@@ -17,6 +17,11 @@
    - The program is built by taking into account the Functional Concept or Object Oriented Programming.
 3. Clean Code (Documentation)
 
+## Dependecies
+
+1. Local Database (XAMPP, Apache, Mysql)
+2. Python library (numpy, pandas, itertools, datetime)
+
 ## Overview
 
 This is a simple console-based library system created using Python with the following functions:
@@ -34,7 +39,7 @@ This system applies structured programming approach.
 1. Main Menu <br> <img src="previews/MainMenu.png"><br>
 2. Main Menu with Error Notification <br> <img src="previews/WrongNumbersInMainMenu.png"><br>
 3. Account & Membership Maintenance 
-   * Add New Account <br> <img src="previews/AddAccount.png"><br>
+   * Add New Account with automatically assigned account ID <br> <img src="previews/AddAccount.png"><br>
    * Account List After Add Account <br> <img src="previews/AccountListAfterAddAccount.png"><br>
    * Delete Account <br> <img src="previews/DeleteAccount.png"><br>
    * Account List After Delete Account <br> <img src="previews/AccountListAfterDeleteAccount.png"><br>
